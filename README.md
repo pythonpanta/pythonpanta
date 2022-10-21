@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pythonpanta
-- 👀 I’m full stack developer.
+- 👀 I’m Python developer.
 - 🌱 I’m currently learning python,django and REST framework and many more
-- 💞️ I’m looking to collaborate on python deeveloper
+- 💞️ I’m looking to collaborate on python developer
 - 📫 this account is all about python related project with framework like django and REST
 
 <!---
